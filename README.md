@@ -1,4 +1,4 @@
-# Ai_Cybersecurity_CAFA_project
+# CAFA_AI_Cybersecurity_project
 Cost-Aware Feasible Attacks
 
 ## Implemented Modifications in Constraint Weighting for Enhanced Results
